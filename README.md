@@ -1,4 +1,3 @@
-# top10-economies-gdp-extraction
 # Top 10 Largest Economies by GDP (IMF Data)
 
 This project extracts and displays the **Top 10 largest economies in the world** (in Billion USD) based on data logged by the **International Monetary Fund (IMF)**.  
