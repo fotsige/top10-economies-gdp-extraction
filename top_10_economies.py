@@ -21,7 +21,7 @@ df.columns = range(df.shape[1])
 # Retains columns with index 0 and 2
 df = df[[0,2]]
 # Retains the Rows with index 1 to 10, indicating the top 10 economies of the world.
-df = df.iloc[1:10,:]
+df = df.iloc[0:10,:]
 # Assigns column names as "Country" and "GDP (Million USD)"
 df.columns = ['Country', 'GDP (Million USD)']
 
